@@ -1,7 +1,7 @@
 <h2>Calculadora de IMC</h2>
 
 <div align="center">
-  <img width="600" src="./assets/rochet nft.png"/>
+  <img width="600" src="screenshot-127.0.0.1_5500-2022.06.27-17_11_19.png"/>
 </div>
   
 <h2>Descrição</h2>
